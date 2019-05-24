@@ -1,0 +1,60 @@
+(easy)What is the capital of France?
+Paris
+Beijing
+London
+Rio
+(easy)What nationality was Newton?
+English
+Japanese
+French
+Chinese
+(easy)What is the chemical symbol foe hydrogen?
+H
+A
+B
+C
+(easy)When did man land on the moon£¿
+1969
+1066
+1215
+2001
+(medium)What is the capital of France?
+Paris
+Beijing
+London
+Rio
+(medium)What nationality was Newton?
+English
+Japanese
+French
+Chinese
+(medium)What is the chemical symbol foe hydrogen?
+H
+A
+B
+C
+(medium)When did man land on the moon
+1969
+1066
+1215
+2001
+(difficult)What is the capital of France?
+Paris
+Beijing
+London
+Rio
+(difficult)What nationality was Newton?
+English
+Japanese
+French
+Chinese
+(difficult)What is the chemical symbol foe hydrogen?
+H
+A
+B
+C
+(difficult)When did man land on the moon
+1969
+1066
+1215
+2001
